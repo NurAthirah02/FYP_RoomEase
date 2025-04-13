@@ -32,10 +32,15 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-font",
+      "expo-secure-store"
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "SENDGRID_API_KEY": "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"
     }
   }
 }
